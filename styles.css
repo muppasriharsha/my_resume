@@ -45,15 +45,16 @@ h2{
 }
 
 .resume .resume_left .resume_profile {
-  width: 95%;
+  width: 85%;
   height: 280px;
   padding: 5%;
+  float: right;
 }
 
 .resume .resume_left .resume_profile img {
-  width: 100%;
+  width: 80%;
   height: 100%;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 .resume .resume_left .side{
   box-sizing: inherit;
