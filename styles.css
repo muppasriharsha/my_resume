@@ -423,27 +423,27 @@ h2{
   background-color: #8faf5c;
   text-decoration-color: #fff;
 }
-/* .abc {
+ .abc {
   font-size: 200px;
   position: relative;
   display: inline-block;
 }
 .abc .aws-under {
   color: rgb(197, 51, 51);
-  /* vertical-align: top; 
+  /* vertical-align: top; */
   vertical-align: bottom;
 }
 .abc .aws-over {
   color: rgb(255, 94, 0);
   position: absolute;
-  top:50px;
+  top:0;
   bottom:0;
   left:0;
   right: 0;
-  /* height: 30%; 
-  width: 40%;
+  height: 30%; 
+  width: 100%;
   overflow: hidden;
-} */
+} 
 /* .translated-ltr{
     margin-top: -40px;
 }
